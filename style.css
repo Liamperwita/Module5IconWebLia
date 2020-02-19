@@ -1,0 +1,807 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?u6qkkn');
+  src:  url('fonts/icomoon.eot?u6qkkn#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?u6qkkn') format('truetype'),
+    url('fonts/icomoon.woff?u6qkkn') format('woff'),
+    url('fonts/icomoon.svg?u6qkkn#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path1:before {
+  content: "\e900";
+  color: rgb(62, 51, 76);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path3:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(229, 77, 60);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path4:before {
+  content: "\e903";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path5:before {
+  content: "\e904";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path6:before {
+  content: "\e905";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path7:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-02 .path8:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path1:before {
+  content: "\e908";
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path2:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path3:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path4:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path5:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path6:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path7:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path8:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path9:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path10:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path11:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_BirthdayCake-03 .path12:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Bread .path1:before {
+  content: "\e914";
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Bread .path2:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_Bread .path3:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_Bread .path4:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Bread .path5:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Bread .path6:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Bread .path7:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Bread .path8:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Bread .path9:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path10:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path11:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path12:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path13:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path14:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path15:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Bread .path16:before {
+  content: "\e923";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path1:before {
+  content: "\e924";
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path2:before {
+  content: "\e925";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path3:before {
+  content: "\e926";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path4:before {
+  content: "\e927";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path5:before {
+  content: "\e928";
+  margin-left: -1em;
+  color: rgb(252, 216, 55);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path6:before {
+  content: "\e929";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path7:before {
+  content: "\e92a";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path8:before {
+  content: "\e92b";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path9:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path10:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path11:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path12:before {
+  content: "\e92f";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path13:before {
+  content: "\e930";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path14:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(254, 234, 58);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path15:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path16:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(196, 42, 40);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path17:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(196, 42, 40);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path18:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path19:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path20:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path21:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path22:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path23:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path24:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path25:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path26:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path27:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path28:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path29:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path30:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path31:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path32:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path33:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path34:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path35:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_CherryCupCake .path36:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path1:before {
+  content: "\e948";
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Cocktail .path2:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Cocktail .path3:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Cocktail .path4:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(255, 241, 165);
+}
+.icon-Module4_Icon_Lia_Cocktail .path5:before {
+  content: "\e94c";
+  margin-left: -1em;
+  color: rgb(255, 241, 165);
+}
+.icon-Module4_Icon_Lia_Cocktail .path6:before {
+  content: "\e94d";
+  margin-left: -1em;
+  color: rgb(241, 92, 94);
+}
+.icon-Module4_Icon_Lia_Cocktail .path7:before {
+  content: "\e94e";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_Cocktail .path8:before {
+  content: "\e94f";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_Cocktail .path9:before {
+  content: "\e950";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_Cocktail .path10:before {
+  content: "\e951";
+  margin-left: -1em;
+  color: rgb(255, 241, 165);
+}
+.icon-Module4_Icon_Lia_Cocktail .path11:before {
+  content: "\e952";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path12:before {
+  content: "\e953";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path13:before {
+  content: "\e954";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path14:before {
+  content: "\e955";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path15:before {
+  content: "\e956";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path16:before {
+  content: "\e957";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Cocktail .path17:before {
+  content: "\e958";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Cocktail .path18:before {
+  content: "\e959";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Donut .path1:before {
+  content: "\e95a";
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Donut .path2:before {
+  content: "\e95b";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Donut .path3:before {
+  content: "\e95c";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Donut .path4:before {
+  content: "\e95d";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path5:before {
+  content: "\e95e";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path6:before {
+  content: "\e95f";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path7:before {
+  content: "\e960";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path8:before {
+  content: "\e961";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path9:before {
+  content: "\e962";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path10:before {
+  content: "\e963";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Donut .path11:before {
+  content: "\e964";
+  margin-left: -1em;
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_IceCream .path1:before {
+  content: "\e965";
+  color: rgb(252, 216, 55);
+}
+.icon-Module4_Icon_Lia_IceCream .path2:before {
+  content: "\e966";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_IceCream .path3:before {
+  content: "\e967";
+  margin-left: -1em;
+  color: rgb(7, 131, 143);
+}
+.icon-Module4_Icon_Lia_IceCream .path4:before {
+  content: "\e968";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_IceCream .path5:before {
+  content: "\e969";
+  margin-left: -1em;
+  color: rgb(7, 131, 143);
+}
+.icon-Module4_Icon_Lia_IceCream .path6:before {
+  content: "\e96a";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_IceCream .path7:before {
+  content: "\e96b";
+  margin-left: -1em;
+  color: rgb(7, 131, 143);
+}
+.icon-Module4_Icon_Lia_IceCream .path8:before {
+  content: "\e96c";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_IceCream .path9:before {
+  content: "\e96d";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path10:before {
+  content: "\e96e";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path11:before {
+  content: "\e96f";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path12:before {
+  content: "\e970";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path13:before {
+  content: "\e971";
+  margin-left: -1em;
+  color: rgb(106, 44, 145);
+}
+.icon-Module4_Icon_Lia_IceCream .path14:before {
+  content: "\e972";
+  margin-left: -1em;
+  color: rgb(145, 63, 152);
+}
+.icon-Module4_Icon_Lia_IceCream .path15:before {
+  content: "\e973";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path16:before {
+  content: "\e974";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path17:before {
+  content: "\e975";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path18:before {
+  content: "\e976";
+  margin-left: -1em;
+  color: rgb(174, 31, 89);
+}
+.icon-Module4_Icon_Lia_IceCream .path19:before {
+  content: "\e977";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_IceCream .path20:before {
+  content: "\e978";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path21:before {
+  content: "\e979";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path22:before {
+  content: "\e97a";
+  margin-left: -1em;
+  color: rgb(97, 125, 140);
+}
+.icon-Module4_Icon_Lia_IceCream .path23:before {
+  content: "\e97b";
+  margin-left: -1em;
+  color: rgb(97, 125, 140);
+}
+.icon-Module4_Icon_Lia_IceCream .path24:before {
+  content: "\e97c";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_IceCream .path25:before {
+  content: "\e97d";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Lolipop .path1:before {
+  content: "\e97e";
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Lolipop .path2:before {
+  content: "\e97f";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Lolipop .path3:before {
+  content: "\e980";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Lolipop .path4:before {
+  content: "\e981";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Lolipop .path5:before {
+  content: "\e982";
+  margin-left: -1em;
+  color: rgb(189, 224, 216);
+}
+.icon-Module4_Icon_Lia_Lolipop .path6:before {
+  content: "\e983";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Lolipop .path7:before {
+  content: "\e984";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Lolipop .path8:before {
+  content: "\e985";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Pudding .path1:before {
+  content: "\e986";
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Pudding .path2:before {
+  content: "\e987";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Pudding .path3:before {
+  content: "\e988";
+  margin-left: -1em;
+  color: rgb(104, 192, 125);
+}
+.icon-Module4_Icon_Lia_Pudding .path4:before {
+  content: "\e989";
+  margin-left: -1em;
+  color: rgb(216, 31, 42);
+}
+.icon-Module4_Icon_Lia_Pudding .path5:before {
+  content: "\e98a";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Pudding .path6:before {
+  content: "\e98b";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path1:before {
+  content: "\e98c";
+  color: rgb(117, 171, 220);
+}
+.icon-Module4_Icon_Lia_Soda .path2:before {
+  content: "\e98d";
+  margin-left: -1em;
+  color: rgb(137, 199, 209);
+}
+.icon-Module4_Icon_Lia_Soda .path3:before {
+  content: "\e98e";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path4:before {
+  content: "\e98f";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Soda .path5:before {
+  content: "\e990";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Soda .path6:before {
+  content: "\e991";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Soda .path7:before {
+  content: "\e992";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Soda .path8:before {
+  content: "\e993";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path9:before {
+  content: "\e994";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path10:before {
+  content: "\e995";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Soda .path11:before {
+  content: "\e996";
+  margin-left: -1em;
+  color: rgb(249, 227, 217);
+}
+.icon-Module4_Icon_Lia_Soda .path12:before {
+  content: "\e997";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Soda .path13:before {
+  content: "\e998";
+  margin-left: -1em;
+  color: rgb(248, 180, 185);
+}
+.icon-Module4_Icon_Lia_Soda .path14:before {
+  content: "\e999";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path15:before {
+  content: "\e99a";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path16:before {
+  content: "\e99b";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path17:before {
+  content: "\e99c";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.icon-Module4_Icon_Lia_Soda .path18:before {
+  content: "\e99d";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
